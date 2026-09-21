@@ -1,0 +1,20 @@
+M.R. Enterprises / mrent.in — original backup recovery
+
+This folder is the recovered Site/ contents supplied in MRENT.IN.zip.
+The original HTML/CSS/JS/images/product pages have been preserved.
+
+Verified:
+- 25 HTML pages + PHP enquiry handlers
+- Product pages and original product images
+- Original logo and styling assets
+- Original contact details in the backup:
+  No: 111, 12th Cross, J C Nagar, Kurubarahalli, Near KEB Office Road, Bangalore - 560086
+  info@mrent.in
+  080-23190782
+  +91-7022891102
+
+Important:
+- The original enquiry form uses PHP mail() and therefore requires PHP hosting.
+- A static host such as GitHub Pages/Cloudflare Pages cannot execute the PHP form.
+- Some image references in the old backup point to files that are not included in the supplied ZIP (for example img/img-left.jpg and a few legacy images). The main product/site assets are present.
+- Before public launch, test every page and the enquiry form.
